@@ -1,0 +1,10 @@
+*.o
+core
+a.out
+basic_mmap
+pmemkv
+freq
+freq_mt
+freq_pmem
+freq_pmem_print
+freq_pmem_cpp
